@@ -24,8 +24,8 @@ Avian Evasion is a beginner-friendly side-scrolling game where you play as a bir
   
   ## Requirements
   - Python 3.13 installed
-  - Pygame
-  - 
+  - Pygame installed
+  
   ### Step by Step:
   1. Watch this (https://www.youtube.com/watch?v=5uOTEOJ48G8), super simple tutorial. I used it to learn how to download Python and Pygame.
   2. Download all Project Files (main.py file, sprites, sound files) into one folder
