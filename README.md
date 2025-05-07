@@ -14,7 +14,7 @@ Avian Evasion is a beginner-friendly side-scrolling game where you play as a bir
 - Bird Spritesheet (https://joshua-briggs.itch.io/bird-sprite)
 - Cloud Sprites (https://kuramarushka.itch.io/pixel-art-cloud-assets)
 - Stick, Stone, Dragonfly, and Feather PNGs from Google Images
-- Collision Sound Effect ([freesound.org](https://freesound.org/people/jeckkech/sounds/391658/))
+- Collision Sound Effect (https://freesound.org/people/jeckkech/sounds/391658/)
 - Title Screen Wind (https://freesound.org/people/klankbeeld/sounds/700991/)
 - In-Game Music (https://www.youtube.com/watch?v=gJkVwt_JJXo)
 - Python Crash Course (https://www.youtube.com/watch?v=WEm3EUdicDg&t=1s)
